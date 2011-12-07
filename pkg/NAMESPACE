@@ -1,0 +1,6 @@
+export(smooth.test)
+export(make.poly)
+export(ddsmooth.test)
+export(orth.poly)
+export(test.stat)
+

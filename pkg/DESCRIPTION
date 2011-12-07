@@ -1,0 +1,14 @@
+Package: smoothtest
+Type: Package
+Title: smooth tests of goodness of fit
+Version: 2.0-2
+Date: 2009-08-07
+Author: Olivier Thas and Bert De Boeck
+Maintainer: Olivier Thas <olivier.thas@UGent.be>
+Depends: R (>= 2.4.1), VGAM, minpack.lm
+Description: smooth tests and data-driven smooth tests of goodness of fit can be performed for several distributions. The package also contains functions for the construction of sets of orthonormal polynomials.
+License: GNU General Public License Version 2, June 1991
+ZipData: yes
+LazyLoad: yes
+LazyData: yes
+Packaged: 2010-03-30 22:02:56 UTC; Peter
