@@ -4,7 +4,7 @@
 # change in test.stat: if "pars" is given these are used as the MLEs or MMEs when this method is chosen
 # but if "pars" is NA the estimates are made according to the chosen method of estimation
 
-test.stat<-function (, distr = "unif", pars = c(0, 1), sample, method = "NONE",
+test.stat<-function (degree, distr = "unif", pars = c(0, 1), sample, method = "NONE",
     f = NA, moments = NA, typedistr = "cont", chol = FALSE, ntrials=NA) 
 {
     n <- length(sample)
