@@ -3,7 +3,7 @@ Type: Package
 Title: smooth tests of goodness of fit
 Version: 2.0-3
 Date: 2011-11-23
-Authors@R: c(person('Bert','De Boeck', role="aut",email=''),
+Authors@R: c(person('Bert','De Boeck', role="aut"),
         person('Olivier','Thas',
         role="aut",email="Olivier.Thas@UGent.be"), person('Joris
         FA','Meys',role="cre",email="Joris.Meys@UGent.be") )
