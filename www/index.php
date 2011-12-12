@@ -43,7 +43,13 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<p> The package smoothtest is an implementation of the methods described in the book <A HREF="http://biomath.ugent.be/~othas/smooth2/Home.html">Smooth Tests of Goodness of Fit - Using R</A>. In this fully revised and expanded edition of the book, the latest powerful techniques for assessing statistical and probabilistic models using this proven class of procedures are presented in a practical and easily accessible manner.</p>
+
+<p>Apart from the examples in the help files, additional examples from the book can be found <A HREF="http://biomath.ugent.be/~othas/smooth2/Examples.html">on the website</A>. These examples illustrate the power of the methods implemented in this package.</p>
+
+<p>The package depends on the CRAN packages <i>VGAM</i> and <i>minpack.lm</i>. Note that for installation of the dependencies, the package can be installed with the command:</p>
+
+<p>install.packages('smoothtest',repos=c(getOption('repos'),'http://R-Forge.r-project.org'))</p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
