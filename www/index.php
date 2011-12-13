@@ -43,7 +43,7 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> The package smoothtest is an implementation of the methods described in the book <A HREF="http://biomath.ugent.be/~othas/smooth2/Home.html">Smooth Tests of Goodness of Fit - Using R</A>. In this fully revised and expanded edition of the book, the latest powerful techniques for assessing statistical and probabilistic models using this proven class of procedures are presented in a practical and easily accessible manner.</p>
+<p> The package smoothtest is an implementation of the methods described in the book <A HREF="http://biomath.ugent.be/~othas/smooth2/Home.html">Smooth Tests of Goodness of Fit - Using R</A> by <b>J.C.W. Rayner, O. Thas and D.J. Best</b>. In this fully revised and expanded edition of the book, the latest powerful techniques for assessing statistical and probabilistic models using this proven class of procedures are presented in a practical and easily accessible manner.</p>
 
 <p>Apart from the examples in the help files, additional examples from the book can be found <A HREF="http://biomath.ugent.be/~othas/smooth2/Examples.html">on the website</A>. These examples illustrate the power of the methods implemented in this package.</p>
 
